@@ -4,7 +4,7 @@
 
 The system automatically collects and updates market data, processes and analyzes the data, generates interactive reports and visualizations, and sends the latest market insights directly to **Telegram**.
 
-🤖 **Telegram Bot:** `SimanKala`
+🤖 **Telegram Bot:** `https://t.me/SimanKala_Bot`
 
 ---
 
